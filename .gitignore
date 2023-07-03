@@ -1,0 +1,17 @@
+*.class
+*.log
+**/.DS_Store
+
+target/
+.history
+.cache
+.lib/
+.idea
+.bsp
+
+out*
+journal/
+snapshots/
+local.conf
+localSecrets
+localSecrets/*
